@@ -1,9 +1,7 @@
 {
     "name": "codica-studio/adminmenu",
     "description": "A random Codica Studio package.",
-    "keywords": [
-        ""
-    ],
+
     "homepage": "https://github.com/codica-studio/n",
     "license": "MIT",
     "authors": [
